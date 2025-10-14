@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0;url=https://enlace-temporal.com">
+  <title>Redirigiendo…</title>
+
+  <script>location.replace("https://enlace-temporal.com");</script>
+</head>
+<body>
+  <p>Si no redirige, haz clic <a href="https://enlace-temporal.com">aquí</a>.</p>
+</body>
+</html>
